@@ -1,0 +1,18 @@
+[submodule "Top_Games_Webpage"]
+	path = Top_Games_Webpage
+	url = https://github.com/artursniegowski/Top_Games_Webpage
+[submodule "Travel_site"]
+	path = Travel_site
+	url = https://github.com/artursniegowski/Travel_site.git
+[submodule "Trees_Webpage"]
+	path = Trees_Webpage
+	url = https://github.com/artursniegowski/Trees_Webpage.git
+[submodule "Learning_Map_Webpage"]
+	path = Learning_Map_Webpage
+	url = https://github.com/artursniegowski/Learning_Map_Webpage.git
+[submodule "TinDog_Webpage"]
+	path = TinDog_Webpage
+	url = https://github.com/artursniegowski/TinDog_Webpage.git
+[submodule "HTML_Personal_Site_example"]
+	path = HTML_Personal_Site_example
+	url = https://github.com/artursniegowski/HTML_Personal_Site_example.git
